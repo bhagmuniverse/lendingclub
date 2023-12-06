@@ -40,7 +40,7 @@ risk
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by Bhargav (bhagmuniverse) & Ishani Garg - feel free to contact me!
+Created by Bhargav (bhagmuniverse) & Ishani Garg - feel free to contact us!
 
 
 <!-- Optional -->
