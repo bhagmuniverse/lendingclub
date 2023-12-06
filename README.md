@@ -1,5 +1,5 @@
 # Lending Club case study
-> Lending Club Case is the largest online loan marketplace, facilitating personalloans, business loans, and financing of medical procedures. Like most other lending companies, lending loans to ‘risky’ applicants leads tocredit loss. 
+> Lending Club Case is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Like most other lending companies, lending loans to ‘risky’ applicants leads to credit loss. 
 
 
 ## Roadmap
@@ -12,7 +12,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## Purpose
-- This case study aims to identify the risky loan applicants using the EDA approachso that such loans can be reduced thereby cutting down the amount of creditloss.
+- This case study aims to identify the risky loan applicants using the EDA approach so that such loans can be reduced thereby cutting down the amount of credit loss.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -23,7 +23,7 @@ amount
 - Annual income tends to increase with years of employment, suggesting a positive
 correlation between income and experience
 - Loan term impacts default rates, with longer-term loans having higher default rates
-- Higher-income ranges are associated with lower default risk
+- Higher income ranges are associated with lower default risk
 - Loan purpose, grade, interest rate, and employment history significantly affect default
 risk
 
