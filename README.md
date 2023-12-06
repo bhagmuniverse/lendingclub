@@ -3,10 +3,10 @@
 
 
 ## Roadmap
-* [Data Understanding & Cleaning](#data-understanding--cleaning)
-* [Univariate and Segmented Analysis](#univariate-and-segmented-analysis)
-* [Biraviate Analysis](#biraviate-analysis)
-* [Observations](#observations)
+* Data Understanding & Cleaning
+* Univariate and Segmented Analysis
+* Biraviate Analysis
+* Observations
 * [Conclusions](#Conclusions)
 
 <!-- You can include any other section that is pertinent to your problem -->
